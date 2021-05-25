@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/attur.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/bangalore.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/file.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/jakkur.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sahakar.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sira.php" dialect="GenericSQL" />
+  </component>
+</project>
